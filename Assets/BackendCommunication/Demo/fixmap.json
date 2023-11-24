@@ -1,0 +1,300 @@
+{
+    "map":[
+        {
+            "PatternID": "0",
+            "type": 1,
+            "TreePosition": []
+        },
+        {
+            "PatternID": "0",
+            "type": 1,
+            "TreePosition": []
+        },
+        {
+            "PatternID": "0",
+            "type": 1,
+            "TreePosition": []
+        },
+        {
+            "PatternID": "0",
+            "type": 1,
+            "TreePosition": []
+        },
+        {
+            "PatternID": "0",
+            "type": 1,
+            "TreePosition": []
+        },
+        {
+            "PatternID": "0",
+            "type": 1,
+            "TreePosition": []
+        },
+        {
+            "PatternID": "23",
+            "LaneNumber": 7,
+            "type": 1,
+            "TreePosition": [
+                0,
+                2,
+                5,
+                8
+            ],
+            "Coin": [
+                1
+            ]
+        },
+        {
+            "PatternID": "0",
+            "type": 1,
+            "TreePosition": []
+        },
+        {
+            "PatternID": "0",
+            "type": 1,
+            "TreePosition": []
+        },
+        {
+            "PatternID": "0",
+            "type": 1,
+            "TreePosition": []
+        },
+        {
+            "PatternID": "3",
+            "LaneNumber": 15,
+            "type": 2,
+            "MoveDirection": -1,
+            "MoveSpeed": 1.2581076045,
+            "AnimalPosition": [
+                4
+            ],
+            "Coin": []
+        },
+        {
+            "PatternID": "0",
+            "type": 1,
+            "TreePosition": []
+        },
+        {
+            "PatternID": "0",
+            "type": 1,
+            "TreePosition": []
+        },
+        {
+            "PatternID": "3",
+            "LaneNumber": 15,
+            "type": 2,
+            "MoveDirection": 1,
+            "MoveSpeed": 1.2581076045,
+            "AnimalPosition": [
+                4
+            ],
+            "Coin": []
+        },
+        {
+            "PatternID": "0",
+            "type": 1,
+            "TreePosition": []
+        },
+        {
+            "PatternID": "0",
+            "type": 1,
+            "TreePosition": []
+        },
+        {
+            "PatternID": "0",
+            "type": 1,
+            "TreePosition": []
+        },
+        {
+            "PatternID": "7",
+            "LaneNumber": 19,
+            "type": 3,
+            "MoveDirection": -1,
+            "MoveSpeed": 1.5292853955,
+            "TrainDelay": 3,
+            "TrainSize": 3,
+            "Coin": []
+        },
+        {
+            "PatternID": "0",
+            "type": 1,
+            "TreePosition": []
+        },
+        {
+            "PatternID": "0",
+            "type": 1,
+            "TreePosition": []
+        },
+        {
+            "PatternID": "7",
+            "LaneNumber": 19,
+            "type": 3,
+            "MoveDirection": 1,
+            "MoveSpeed": 1.5292853955,
+            "TrainDelay": 3,
+            "TrainSize": 3,
+            "Coin": []
+        },
+        {
+            "PatternID": "0",
+            "type": 1,
+            "TreePosition": []
+        },
+        {
+            "PatternID": "0",
+            "type": 1,
+            "TreePosition": []
+        },
+        {
+            "PatternID": "0",
+            "type": 1,
+            "TreePosition": []
+        },
+        {
+            "PatternID": "2",
+            "LaneNumber": 35,
+            "type": 4,
+            "LotusPosition": [
+                0,
+                1,
+                4,
+                5
+            ],
+            "Coin": [
+                0,
+                4,
+                5
+            ]
+        },
+        {
+            "PatternID": "0",
+            "type": 1,
+            "TreePosition": []
+        },
+        {
+            "PatternID": "0",
+            "type": 1,
+            "TreePosition": []
+        },
+        {
+            "PatternID": "0",
+            "type": 1,
+            "TreePosition": []
+        },
+        {
+            "PatternID": "14",
+            "LaneNumber": 12,
+            "type": 5,
+            "LogPosition": [
+                1,
+                2,
+                3,
+                5,
+                7
+            ],
+            "MoveDirection": -1,
+            "MoveSpeed": 1.6096062315,
+            "Coin": [
+                1
+            ]
+        },
+        {
+            "PatternID": "0",
+            "type": 1,
+            "TreePosition": []
+        },
+        {
+            "PatternID": "0",
+            "type": 1,
+            "TreePosition": []
+        },
+        {
+            "PatternID": "14",
+            "LaneNumber": 12,
+            "type": 5,
+            "LogPosition": [
+                1,
+                2,
+                3,
+                5,
+                7
+            ],
+            "MoveDirection": 1,
+            "MoveSpeed": 1.6096062315,
+            "Coin": [
+                1
+            ]
+        },
+        {
+            "PatternID": "0",
+            "type": 1,
+            "TreePosition": []
+        },
+        {
+            "PatternID": "0",
+            "type": 1,
+            "TreePosition": []
+        },
+        {
+            "PatternID": "0",
+            "type": 1,
+            "TreePosition": []
+        },
+        {
+            "PatternID": "14",
+            "LaneNumber": 13,
+            "type": 6,
+            "CrocPosition": [
+                4,
+                7
+            ],
+            "FixCrocDirection": [
+                1
+            ],
+            "MoveDirection": 1,
+            "MoveSpeed": 2.1160928175,
+            "Coin": []
+        },
+        {
+            "PatternID": "0",
+            "type": 1,
+            "TreePosition": []
+        },
+        {
+            "PatternID": "0",
+            "type": 1,
+            "TreePosition": []
+        },
+        {
+            "PatternID": "14",
+            "LaneNumber": 13,
+            "type": 6,
+            "CrocPosition": [
+                4,
+                7
+            ],
+            "FixCrocDirection": [
+                -1
+            ],
+            "MoveDirection": -1,
+            "MoveSpeed": 2.1160928175,
+            "Coin": []
+        },
+        {
+            "PatternID": "0",
+            "type": 1,
+            "TreePosition": []
+        },
+        {
+            "PatternID": "0",
+            "type": 1,
+            "TreePosition": []
+        },
+        {
+            "PatternID": "0",
+            "type": 1,
+            "TreePosition": []
+        }
+    ]
+}

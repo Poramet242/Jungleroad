@@ -1,0 +1,615 @@
+{
+    "map": [
+        {
+            "type": 1,
+            "TreePosition": []
+        },
+        {
+            "type": 1,
+            "TreePosition": []
+        },
+        {
+            "type": 1,
+            "TreePosition": [
+                1,
+                3,
+                7
+            ]
+        },
+        {
+            "type": 1,
+            "TreePosition": [
+                3,
+                7,
+                8
+            ]
+        },
+        {
+            "type": 1,
+            "TreePosition": [
+                3,
+                5
+            ]
+        },
+        {
+            "type": 1,
+            "TreePosition": [
+                2,
+                5,
+                9
+            ]
+        },
+        {
+            "type": 1,
+            "TreePosition": []
+        },
+        {
+            "type": 2,
+            "SmallAnimalPosition": [
+                5
+            ],
+            "BigAnimalPosition": [],
+            "MoveDirection": -1,
+            "MoveSpeed": 0.75
+        },
+        {
+            "type": 2,
+            "SmallAnimalPosition": [
+                2,
+                9
+            ],
+            "BigAnimalPosition": [],
+            "MoveDirection": -1,
+            "MoveSpeed": 1.0
+        },
+        {
+            "type": 2,
+            "SmallAnimalPosition": [
+                1,
+                9
+            ],
+            "BigAnimalPosition": [],
+            "MoveDirection": -1,
+            "MoveSpeed": 1.5
+        },
+        {
+            "type": 5,
+            "LotusPosition": [],
+            "LogPosition": [
+                2,
+                6
+            ],
+            "CrocPosition": [],
+            "MoveDirection": 1,
+            "MoveSpeed": 0.5
+        },
+        {
+            "type": 1,
+            "TreePosition": []
+        },
+        {
+            "type": 1,
+            "TreePosition": []
+        },
+        {
+            "type": 2,
+            "SmallAnimalPosition": [
+                1,
+                5,
+                9
+            ],
+            "BigAnimalPosition": [],
+            "MoveDirection": 1,
+            "MoveSpeed": 0.5
+        },
+        {
+            "type": 6,
+            "LotusPosition": [],
+            "LogPosition": [
+                1,
+                2,
+                5,
+                6
+            ],
+            "CrocPosition": [
+                [],
+                []
+            ],
+            "MoveDirection": 1,
+            "MoveSpeed": 0.5
+        },
+        {
+            "type": 4,
+            "LotusPosition": [],
+            "LogPosition": [
+                2,
+                3,
+                6,
+                7
+            ],
+            "CrocPosition": [
+                [
+                    1,
+                    2,
+                    5,
+                    6
+                ],
+                [
+                    2,
+                    3,
+                    6,
+                    7
+                ]
+            ],
+            "MoveDirection": 0,
+            "MoveSpeed": 0.5
+        },
+        {
+            "type": 2,
+            "SmallAnimalPosition": [
+                1,
+                5,
+                9
+            ],
+            "BigAnimalPosition": [],
+            "MoveDirection": -1,
+            "MoveSpeed": 0.5
+        },
+        {
+            "type": 2,
+            "SmallAnimalPosition": [
+                2,
+                6
+            ],
+            "BigAnimalPosition": [],
+            "MoveDirection": -1,
+            "MoveSpeed": 0.5
+        },
+        {
+            "type": 4,
+            "LotusPosition": [],
+            "LogPosition": [
+                5,
+                6,
+                7,
+                8,
+                9
+            ],
+            "CrocPosition": [
+                [],
+                []
+            ],
+            "MoveDirection": 0,
+            "MoveSpeed": 0.5
+        },
+        {
+            "type": 2,
+            "SmallAnimalPosition": [],
+            "BigAnimalPosition": [
+                5
+            ],
+            "MoveDirection": 1,
+            "MoveSpeed": 0.5
+        },
+        {
+            "type": 4,
+            "LotusPosition": [],
+            "LogPosition": [],
+            "CrocPosition": [
+                []
+            ],
+            "MoveDirection": 1,
+            "MoveSpeed": 0.5
+        },
+        {
+            "type": 2,
+            "SmallAnimalPosition": [],
+            "BigAnimalPosition": [
+                5
+            ],
+            "MoveDirection": 1,
+            "MoveSpeed": 0.5
+        },
+        {
+            "type": 4,
+            "LotusPosition": [
+                2,
+                3,
+                6,
+                9
+            ],
+            "LogPosition": [],
+            "CrocPosition": [
+                [
+                    2,
+                    3,
+                    6,
+                    9
+                ],
+                [
+                    3,
+                    6,
+                    8,
+                    9
+                ],
+                [
+                    3,
+                    5,
+                    6,
+                    8
+                ],
+                [
+                    2,
+                    3,
+                    5,
+                    8
+                ],
+                [
+                    2,
+                    5,
+                    6,
+                    8
+                ]
+            ],
+            "MoveDirection": 0,
+            "MoveSpeed": 0.5
+        },
+        {
+            "type": 4,
+            "LotusPosition": [
+                3,
+                6,
+                8,
+                9
+            ],
+            "LogPosition": [],
+            "CrocPosition": [
+                [],
+                [],
+                [],
+                [],
+                []
+            ],
+            "MoveDirection": 0,
+            "MoveSpeed": 0.5
+        },
+        {
+            "type": 4,
+            "LotusPosition": [
+                3,
+                5,
+                6,
+                8
+            ],
+            "LogPosition": [],
+            "CrocPosition": [
+                [],
+                [],
+                [],
+                [],
+                []
+            ],
+            "MoveDirection": 0,
+            "MoveSpeed": 0.5
+        },
+        {
+            "type": 4,
+            "LotusPosition": [
+                2,
+                3,
+                5,
+                8
+            ],
+            "LogPosition": [],
+            "CrocPosition": [],
+            "MoveDirection": 0,
+            "MoveSpeed": 0.5
+        },
+        {
+            "type": 4,
+            "LotusPosition": [
+                2,
+                5,
+                6,
+                8
+            ],
+            "LogPosition": [],
+            "CrocPosition": [],
+            "MoveDirection": 0,
+            "MoveSpeed": 0.5
+        },
+        {
+            "type": 1,
+            "TreePosition": [
+                2,
+                4,
+                6,
+                8
+            ]
+        },
+        {
+            "type": 1,
+            "TreePosition": []
+        },
+        {
+            "type": 1,
+            "TreePosition": [
+                1,
+                3,
+                7,
+                9
+            ]
+        },
+        {
+            "type": 2,
+            "SmallAnimalPosition": [
+                1,
+                6
+            ],
+            "BigAnimalPosition": [],
+            "MoveDirection": 1,
+            "MoveSpeed": 0.5
+        },
+        {
+            "type": 2,
+            "SmallAnimalPosition": [
+                4,
+                9
+            ],
+            "BigAnimalPosition": [],
+            "MoveDirection": -1,
+            "MoveSpeed": 0.5
+        },
+        {
+            "type": 2,
+            "SmallAnimalPosition": [
+                1,
+                9
+            ],
+            "BigAnimalPosition": [],
+            "MoveDirection": 1,
+            "MoveSpeed": 0.5
+        },
+        {
+            "type": 1,
+            "TreePosition": [
+                5,
+                6,
+                7,
+                8,
+                9
+            ]
+        },
+        {
+            "type": 4,
+            "LotusPosition": [],
+            "LogPosition": [
+                1,
+                2,
+                4,
+                5,
+                7,
+                8
+            ],
+            "CrocPosition": [
+                [],
+                [],
+                []
+            ],
+            "MoveDirection": 1,
+            "MoveSpeed": 0.5
+        },
+        {
+            "type": 4,
+            "LotusPosition": [],
+            "LogPosition": [
+                2,
+                3,
+                4,
+                6,
+                7,
+                8
+            ],
+            "CrocPosition": [
+                [
+                    1,
+                    2,
+                    4,
+                    5,
+                    7,
+                    8
+                ],
+                [
+                    2,
+                    3,
+                    4,
+                    6,
+                    7,
+                    8
+                ],
+                [
+                    1,
+                    2,
+                    4,
+                    5,
+                    6,
+                    8,
+                    9
+                ]
+            ],
+            "MoveDirection": 1,
+            "MoveSpeed": 0.5
+        },
+        {
+            "type": 4,
+            "LotusPosition": [],
+            "LogPosition": [
+                1,
+                2,
+                4,
+                5,
+                6,
+                8,
+                9
+            ],
+            "CrocPosition": [
+                [],
+                [],
+                []
+            ],
+            "MoveDirection": -1,
+            "MoveSpeed": 0.5
+        },
+        {
+            "type": 1,
+            "TreePosition": [
+                1,
+                3,
+                7
+            ]
+        },
+        {
+            "type": 1,
+            "TreePosition": [
+                3,
+                7,
+                8
+            ]
+        },
+        {
+            "type": 1,
+            "TreePosition": [
+                3,
+                5
+            ]
+        },
+        {
+            "type": 1,
+            "TreePosition": [
+                2,
+                5,
+                9
+            ]
+        },
+        {
+            "type": 1,
+            "TreePosition": []
+        },
+        {
+            "type": 4,
+            "LotusPosition": [],
+            "LogPosition": [
+                5,
+                6,
+                7,
+                8
+            ],
+            "CrocPosition": [
+                [],
+                [],
+                []
+            ],
+            "MoveDirection": 0,
+            "MoveSpeed": 0.5
+        },
+        {
+            "type": 4,
+            "LotusPosition": [],
+            "LogPosition": [
+                3,
+                4,
+                5,
+                6
+            ],
+            "CrocPosition": [
+                [
+                    5,
+                    6,
+                    7,
+                    8
+                ],
+                [
+                    3,
+                    4,
+                    5,
+                    6
+                ],
+                [
+                    1,
+                    2,
+                    3,
+                    4
+                ]
+            ],
+            "MoveDirection": 1,
+            "MoveSpeed": 0.5
+        },
+        {
+            "type": 4,
+            "LotusPosition": [],
+            "LogPosition": [
+                1,
+                2,
+                3,
+                4
+            ],
+            "CrocPosition": [
+                [],
+                [],
+                []
+            ],
+            "MoveDirection": 1,
+            "MoveSpeed": 0.5
+        },
+        {
+            "type": 2,
+            "SmallAnimalPosition": [
+                1,
+                6
+            ],
+            "BigAnimalPosition": [],
+            "MoveDirection": -1,
+            "MoveSpeed": 0.5
+        },
+        {
+            "type": 2,
+            "SmallAnimalPosition": [
+                4,
+                9
+            ],
+            "BigAnimalPosition": [],
+            "MoveDirection": 1,
+            "MoveSpeed": 0.5
+        },
+        {
+            "type": 2,
+            "SmallAnimalPosition": [
+                1,
+                9
+            ],
+            "BigAnimalPosition": [],
+            "MoveDirection": -1,
+            "MoveSpeed": 0.5
+        },
+        {
+            "type": 1,
+            "TreePosition": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ]
+        },
+        {
+            "type": 4,
+            "LotusPosition": [],
+            "LogPosition": [],
+            "CrocPosition": [
+                []
+            ],
+            "MoveDirection": -1,
+            "MoveSpeed": 0.5
+        }
+    ]
+}

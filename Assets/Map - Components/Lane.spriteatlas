@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Lane
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 3
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 3ab34252f97611a4f9673c81377a60a0, type: 3}
+    totalSpriteSurfaceArea: 17816576
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 3df9460085192e24dacfb33c755cfe8b, type: 3}
+  - {fileID: 21300000, guid: a05b2c7019087c848ba7fed6d7461864, type: 3}
+  - {fileID: 21300000, guid: 8b419290e945c19438e70d05b862e7ef, type: 3}
+  - {fileID: 21300000, guid: a46a93b474cd1994cbceb2480f2e7b67, type: 3}
+  - {fileID: 21300000, guid: 3a2f26156096068478c9b7c495103176, type: 3}
+  - {fileID: 21300000, guid: efb8db3592c099b4789e7d48d24198fc, type: 3}
+  - {fileID: 21300000, guid: eca46de51c1df7b4fa72b366cc5107de, type: 3}
+  - {fileID: 21300000, guid: 927a36c60e2198b4ea810360739d1983, type: 3}
+  - {fileID: 21300000, guid: 6c3301481c93b0943963993588276e29, type: 3}
+  - {fileID: 21300000, guid: f9e5944800c091b4cb814aa8a61f7723, type: 3}
+  - {fileID: 21300000, guid: c0dcd598b2603f549a4d651b62aa1ce5, type: 3}
+  - {fileID: 21300000, guid: cd476be8e786282438bded58d54da7bb, type: 3}
+  - {fileID: 21300000, guid: 24011f39501e3514db49ae5109af92e4, type: 3}
+  - {fileID: 21300000, guid: eeb410d98e0c44b40b5bf9c93c6aa3d5, type: 3}
+  - {fileID: 21300000, guid: ad772f1ab369ce54c871e87d337e8695, type: 3}
+  - {fileID: 21300000, guid: f8122efacbe8bbd4585240a805a83d9f, type: 3}
+  - {fileID: 21300000, guid: 1c61085dbde763f4ca680553f0a633dd, type: 3}
+  - {fileID: 21300000, guid: 3fcaf18d076e49d4aa3d78777909b578, type: 3}
+  - {fileID: 21300000, guid: 204e950f003742a418cf30db97827cb3, type: 3}
+  - {fileID: 21300000, guid: 2572ea7f31320ca4493f66b1ce0d6979, type: 3}
+  - {fileID: 21300000, guid: f7c48fdf0a1a5654d89f44b283cc20b5, type: 3}
+  - {fileID: 21300000, guid: acfc27eff9f69dd4e891dff3f8593535, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - dirt_lane_02
+  - Tile__Grass_02
+  - grass_lane_03
+  - grass_lane_02
+  - Tile__Dirt-Road_01
+  - Tile__Grass_01
+  - grass_lane_01
+  - grass_lane_02
+  - Tile__Dirt-Road__Default.
+  - dirt_lane_01
+  - river_lane_01
+  - Tile__River_Default
+  - grass_lane_03
+  - Tile__Grass_Default
+  - grass_lane_01
+  - Tile__Grass_03
+  - dirt_lane_01
+  - Tile__Dirt-Road_02
+  - dirt_lane_02
+  - dirt_lane_03
+  - dirt_lane_03
+  - river_lane_01
+  m_RenderDataMap: {}
+  m_Tag: Lane
+  m_IsVariant: 0

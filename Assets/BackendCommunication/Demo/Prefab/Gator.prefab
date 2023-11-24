@@ -1,0 +1,98 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-8274908502560408597
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6530436152981072799}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b1ebb8b94b589f46aef5d036ae1f323, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  BlockCollider: {fileID: 7621452432433279271}
+  bodyPrefab: {fileID: 6731057504127806223, guid: 2f1401308dbaa124c90f2dc698a3336b, type: 3}
+  bodyParent: {fileID: 2014492842477401365}
+--- !u!1001 &548398130633498822
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2047070338919650771, guid: 3737c870942d443489d0a93df29d03fa, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2047070338919650771, guid: 3737c870942d443489d0a93df29d03fa, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2047070338919650771, guid: 3737c870942d443489d0a93df29d03fa, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2047070338919650771, guid: 3737c870942d443489d0a93df29d03fa, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2047070338919650771, guid: 3737c870942d443489d0a93df29d03fa, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2047070338919650771, guid: 3737c870942d443489d0a93df29d03fa, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2047070338919650771, guid: 3737c870942d443489d0a93df29d03fa, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2047070338919650771, guid: 3737c870942d443489d0a93df29d03fa, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2047070338919650771, guid: 3737c870942d443489d0a93df29d03fa, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2047070338919650771, guid: 3737c870942d443489d0a93df29d03fa, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2047070338919650771, guid: 3737c870942d443489d0a93df29d03fa, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6718394438456691545, guid: 3737c870942d443489d0a93df29d03fa, type: 3}
+      propertyPath: m_Name
+      value: Gator
+      objectReference: {fileID: 0}
+    - target: {fileID: 6718394438456691545, guid: 3737c870942d443489d0a93df29d03fa, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7983192471442291724, guid: 3737c870942d443489d0a93df29d03fa, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: f00394e7d165e9a419e0afa76381dc6a, type: 2}
+    m_RemovedComponents:
+    - {fileID: 4704558709195566389, guid: 3737c870942d443489d0a93df29d03fa, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: 3737c870942d443489d0a93df29d03fa, type: 3}
+--- !u!1 &6530436152981072799 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6718394438456691545, guid: 3737c870942d443489d0a93df29d03fa, type: 3}
+  m_PrefabInstance: {fileID: 548398130633498822}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &2014492842477401365 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2047070338919650771, guid: 3737c870942d443489d0a93df29d03fa, type: 3}
+  m_PrefabInstance: {fileID: 548398130633498822}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &7621452432433279271 stripped
+BoxCollider:
+  m_CorrespondingSourceObject: {fileID: 7951276300065116641, guid: 3737c870942d443489d0a93df29d03fa, type: 3}
+  m_PrefabInstance: {fileID: 548398130633498822}
+  m_PrefabAsset: {fileID: 0}

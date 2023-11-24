@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7987726808054872230
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7987726808054872228}
+  - component: {fileID: 7987726808054872229}
+  m_Layer: 0
+  m_Name: WebGlUtillity
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7987726808054872228
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7987726808054872230}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7987726808054872229
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7987726808054872230}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 09cb1a58b80259640acf8e45ce9e8516, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  userData:
+    characterCount: 0
+    characterList: []
+  token: 
+  testTokenCokkie: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2MjFlMWJhMjMyYWE3ZWMyYWY2YzE4MDYiLCIkX18iOnsiYWN0aXZlUGF0aHMiOnsicGF0aHMiOnsiYWRkcmVzcyI6ImluaXQiLCJsYXN0V2l0aGRyYXciOiJpbml0IiwiX2lkIjoiaW5pdCIsImNyZWF0ZWRBdCI6ImluaXQiLCJ1cGRhdGVkQXQiOiJpbml0IiwiX192IjoiaW5pdCIsInVzZXJuYW1lIjoiaW5pdCIsImxhc3RSZXN0IjoiaW5pdCJ9LCJzdGF0ZXMiOnsiaWdub3JlIjp7fSwiZGVmYXVsdCI6e30sImluaXQiOnsiX2lkIjp0cnVlLCJhZGRyZXNzIjp0cnVlLCJjcmVhdGVkQXQiOnRydWUsInVwZGF0ZWRBdCI6dHJ1ZSwiX192Ijp0cnVlLCJsYXN0V2l0aGRyYXciOnRydWUsInVzZXJuYW1lIjp0cnVlLCJsYXN0UmVzdCI6dHJ1ZX0sIm1vZGlmeSI6e30sInJlcXVpcmUiOnt9fSwic3RhdGVOYW1lcyI6WyJyZXF1aXJlIiwibW9kaWZ5IiwiaW5pdCIsImRlZmF1bHQiLCJpZ25vcmUiXX0sImVtaXR0ZXIiOnsiX2V2ZW50cyI6e30sIl9ldmVudHNDb3VudCI6MCwiX21heExpc3RlbmVycyI6MH0sInN0cmljdE1vZGUiOnRydWUsInNlbGVjdGVkIjp7InBhc3N3b3JkIjowfSwiX2lkIjoiNjIxZTFiYTIzMmFhN2VjMmFmNmMxODA2In0sIiRpc05ldyI6ZmFsc2UsIl9kb2MiOnsiX2lkIjoiNjIxZTFiYTIzMmFhN2VjMmFmNmMxODA2IiwiYWRkcmVzcyI6IjB4MDFkYmFkZDFkYjI5YmEzYTU4MmNjZmEzOTRlZDk0YmJiODJkY2Y5YiIsImNyZWF0ZWRBdCI6IjIwMjItMDMtMDFUMTM6MTI6MDIuODYzWiIsInVwZGF0ZWRBdCI6IjIwMjItMDQtMDdUMTE6MzE6MzguNzA4WiIsIl9fdiI6MCwibGFzdFdpdGhkcmF3IjoiMTk3MC0wMS0wMVQwMDowMDowMC4wMDBaIiwidXNlcm5hbWUiOiJidWNrYnVjayIsImxhc3RSZXN0QXQiOiIyMDIyLTAzLTI0VDExOjI3OjE5LjIwMloiLCJsYXN0UmVzdCI6IjIwMjItMDQtMDVUMDk6MjQ6NDUuNDk3WiJ9LCIkaW5pdCI6dHJ1ZSwiaWF0IjoxNjQ5MzUwNDU0LCJleHAiOjE2NDkzNTQwNTR9.BtplukU7vJblg3LxaIFmtjl9xiEc1cw5xJMylZvC9Yo
+  tokenText: {fileID: 0}
+  user: {fileID: 0}
+  pass: {fileID: 0}

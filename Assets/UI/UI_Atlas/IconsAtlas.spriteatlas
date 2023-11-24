@@ -1,0 +1,108 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: IconsAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 512
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 3
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: c088f986abb26f54b8d96c63a129cbf7, type: 3}
+    totalSpriteSurfaceArea: 6657872
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 15bedb109a9c1ca4dbbe7f505c5ff154, type: 3}
+  - {fileID: 21300000, guid: ad924c60aba39a54696882ddb876ecd3, type: 3}
+  - {fileID: 21300000, guid: bd7ae1901c048654eb32c34e83e115da, type: 3}
+  - {fileID: 21300000, guid: 11666111e9feb314daf4d9beb0dc53e2, type: 3}
+  - {fileID: 21300000, guid: 5237d7e2aeeef0c4da5d3124b30da26f, type: 3}
+  - {fileID: 21300000, guid: ee37b523787d73d439a2cc84bbabfe36, type: 3}
+  - {fileID: 21300000, guid: 7186e2934989b25448353d975a8e77fb, type: 3}
+  - {fileID: 21300000, guid: 55db2b54b560ee74793a4632c12bb84d, type: 3}
+  - {fileID: 21300000, guid: 4168b9462d72a75448867f786b3b4831, type: 3}
+  - {fileID: 21300000, guid: d0645b86d3ac49948adb7e7012c27646, type: 3}
+  - {fileID: 21300000, guid: 8ec9f458005fbf14a936f193c42cd14e, type: 3}
+  - {fileID: 21300000, guid: 4a915f9889a2a1b44b14dcebc3dc1fc6, type: 3}
+  - {fileID: 21300000, guid: 02ca9f09579e15c4aa2fca7de5a3eb19, type: 3}
+  - {fileID: 21300000, guid: df0389b9293d8034e9b7bf0434d8c9bf, type: 3}
+  - {fileID: 21300000, guid: a2321bb99cc2b8748b8a6d8194630db7, type: 3}
+  - {fileID: 21300000, guid: f513b9e9c0be6ae4ba9eecf12ec1c06b, type: 3}
+  - {fileID: 21300000, guid: b7b10a0ac03184b49b758d7414251956, type: 3}
+  - {fileID: 21300000, guid: 0b9060fb343bcda42990bd19cf128656, type: 3}
+  - {fileID: 21300000, guid: 736c276c2ef193b4ab1f24138b39bf47, type: 3}
+  - {fileID: 21300000, guid: d7f4f88c3e582ea44b1e4179363c774f, type: 3}
+  - {fileID: 21300000, guid: 85886fdccf7e6c7449c70eac1716c531, type: 3}
+  - {fileID: 21300000, guid: cab6601d081b5774eb853f00d2a980d4, type: 3}
+  - {fileID: 21300000, guid: f0dea84ec7e305a4ebe5402e106f8a38, type: 3}
+  - {fileID: 21300000, guid: a4621d4e90a415b468efcaea641d4905, type: 3}
+  - {fileID: 21300000, guid: 8829214fdc270ba4d8bf35c8007d470a, type: 3}
+  - {fileID: 21300000, guid: 4a8b64df76dc0c24ea1057d9be60fedf, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Distance@4x
+  - D Rank
+  - F Rank@4x
+  - Stamina
+  - S Rank@4x
+  - F Rank
+  - B Rank@4x
+  - Distance
+  - Stamina@4x
+  - Time
+  - E Rank
+  - A Rank
+  - Health@4x
+  - Stress@4x
+  - C Rank@4x
+  - E Rank@4x
+  - S Rank
+  - Stress
+  - Health
+  - Coins@4x
+  - C Rank
+  - D Rank@4x
+  - B Rank
+  - Time@4x
+  - A Rank@4x
+  - Coins
+  m_RenderDataMap: {}
+  m_Tag: IconsAtlas
+  m_IsVariant: 0

@@ -1,0 +1,1231 @@
+{
+    "map": [
+        {
+            "PatternID": "0",
+            "type": 1,
+            "TreePosition": []
+        },
+        {
+            "PatternID": "0",
+            "type": 1,
+            "TreePosition": []
+        },
+        {
+            "PatternID": "0",
+            "type": 1,
+            "TreePosition": []
+        },
+        {
+            "PatternID": "0",
+            "type": 1,
+            "TreePosition": []
+        },
+        {
+            "PatternID": "0",
+            "type": 1,
+            "TreePosition": []
+        },
+        {
+            "PatternID": "0",
+            "type": 1,
+            "TreePosition": []
+        },
+        {
+            "PatternID": "23",
+            "LaneNumber": 7,
+            "type": 1,
+            "TreePosition": [
+                0,
+                2,
+                5,
+                8
+            ],
+            "Coin": [
+                1
+            ]
+        },
+        {
+            "PatternID": "23",
+            "LaneNumber": 8,
+            "type": 1,
+            "TreePosition": [
+                1,
+                2,
+                3,
+                6
+            ],
+            "Coin": [
+                5
+            ]
+        },
+        {
+            "PatternID": "23",
+            "LaneNumber": 9,
+            "type": 1,
+            "TreePosition": [
+                0,
+                2,
+                8
+            ],
+            "Coin": []
+        },
+        {
+            "PatternID": "23",
+            "LaneNumber": 10,
+            "type": 1,
+            "TreePosition": [
+                1,
+                2,
+                3,
+                5,
+                6
+            ],
+            "Coin": []
+        },
+        {
+            "PatternID": "23",
+            "LaneNumber": 11,
+            "type": 1,
+            "TreePosition": [
+                0,
+                2,
+                6,
+                7
+            ],
+            "Coin": []
+        },
+        {
+            "PatternID": "14",
+            "LaneNumber": 12,
+            "type": 5,
+            "LogPosition": [
+                1,
+                2,
+                3,
+                5,
+                7
+            ],
+            "MoveDirection": 0,
+            "MoveSpeed": 1.6096062315,
+            "Coin": [
+                1
+            ]
+        },
+        {
+            "PatternID": "14",
+            "LaneNumber": 13,
+            "type": 6,
+            "CrocPosition": [
+                4,
+                7
+            ],
+            "FixCrocDirection": [
+                1
+            ],
+            "MoveDirection": 1,
+            "MoveSpeed": 2.1160928175,
+            "Coin": []
+        },
+        {
+            "PatternID": "14",
+            "LaneNumber": 14,
+            "type": 5,
+            "LogPosition": [
+                1,
+                3,
+                5,
+                7,
+                8
+            ],
+            "MoveDirection": 0,
+            "MoveSpeed": 1.9704554025,
+            "Coin": []
+        },
+        {
+            "PatternID": "3",
+            "LaneNumber": 15,
+            "type": 2,
+            "MoveDirection": -1,
+            "MoveSpeed": 1.2581076045,
+            "AnimalPosition": [
+                1,
+                5
+            ],
+            "Coin": [
+                4,
+                8
+            ]
+        },
+        {
+            "PatternID": "3",
+            "LaneNumber": 16,
+            "type": 2,
+            "MoveDirection": -1,
+            "MoveSpeed": 1.7348753655,
+            "AnimalPosition": [
+                0,
+                4,
+                8
+            ],
+            "Coin": []
+        },
+        {
+            "PatternID": "9",
+            "LaneNumber": 17,
+            "type": 1,
+            "TreePosition": [
+                4,
+                5,
+                6,
+                7,
+                8
+            ],
+            "Coin": []
+        },
+        {
+            "PatternID": "7",
+            "LaneNumber": 18,
+            "type": 2,
+            "MoveDirection": 1,
+            "MoveSpeed": 2.0417970495,
+            "AnimalPosition": [
+                0,
+                3,
+                4,
+                5,
+                8
+            ],
+            "Coin": [
+                6
+            ]
+        },
+        {
+            "PatternID": "7",
+            "LaneNumber": 19,
+            "type": 3,
+            "MoveDirection": -1,
+            "MoveSpeed": 1.5292853955,
+            "TrainDelay": 3,
+            "TrainSize": 3,
+            "Coin": []
+        },
+        {
+            "PatternID": "7",
+            "LaneNumber": 20,
+            "type": 2,
+            "MoveDirection": 1,
+            "MoveSpeed": 2.0851790685,
+            "AnimalPosition": [
+                1,
+                2,
+                6,
+                7
+            ],
+            "Coin": []
+        },
+        {
+            "PatternID": "7",
+            "LaneNumber": 21,
+            "type": 3,
+            "MoveDirection": -1,
+            "MoveSpeed": 0.7786160775,
+            "TrainDelay": 3,
+            "TrainSize": 3,
+            "Coin": []
+        },
+        {
+            "PatternID": "10",
+            "LaneNumber": 22,
+            "type": 6,
+            "CrocPosition": [
+                1,
+                4,
+                7
+            ],
+            "FixCrocDirection": [
+                1,
+                1,
+                1
+            ],
+            "MoveDirection": 0,
+            "MoveSpeed": 1.110086055,
+            "Coin": []
+        },
+        {
+            "PatternID": "16",
+            "LaneNumber": 23,
+            "type": 1,
+            "TreePosition": [
+                4,
+                6
+            ],
+            "Coin": []
+        },
+        {
+            "PatternID": "16",
+            "LaneNumber": 24,
+            "type": 1,
+            "TreePosition": [
+                1,
+                3,
+                5
+            ],
+            "Coin": []
+        },
+        {
+            "PatternID": "16",
+            "LaneNumber": 25,
+            "type": 1,
+            "TreePosition": [
+                2,
+                6,
+                8
+            ],
+            "Coin": []
+        },
+        {
+            "PatternID": "16",
+            "LaneNumber": 26,
+            "type": 1,
+            "TreePosition": [
+                1,
+                3,
+                7,
+                8
+            ],
+            "Coin": []
+        },
+        {
+            "PatternID": "16",
+            "LaneNumber": 27,
+            "type": 1,
+            "TreePosition": [
+                2,
+                4
+            ],
+            "Coin": []
+        },
+        {
+            "PatternID": "6",
+            "LaneNumber": 28,
+            "type": 3,
+            "MoveDirection": 1,
+            "MoveSpeed": 0.9444009495,
+            "TrainDelay": 3,
+            "TrainSize": 3,
+            "Coin": []
+        },
+        {
+            "PatternID": "8",
+            "LaneNumber": 29,
+            "type": 5,
+            "LogPosition": [
+                0,
+                1,
+                2,
+                3,
+                4
+            ],
+            "MoveDirection": 1,
+            "MoveSpeed": 1.574389551,
+            "Coin": []
+        },
+        {
+            "PatternID": "18",
+            "LaneNumber": 30,
+            "type": 1,
+            "TreePosition": [
+                0,
+                1,
+                3,
+                5,
+                6,
+                8
+            ],
+            "Coin": [
+                2
+            ]
+        },
+        {
+            "PatternID": "18",
+            "LaneNumber": 31,
+            "type": 1,
+            "TreePosition": [
+                3,
+                4,
+                8
+            ],
+            "Coin": []
+        },
+        {
+            "PatternID": "18",
+            "LaneNumber": 32,
+            "type": 1,
+            "TreePosition": [
+                1,
+                3,
+                4,
+                6,
+                7,
+                8
+            ],
+            "Coin": []
+        },
+        {
+            "PatternID": "18",
+            "LaneNumber": 33,
+            "type": 1,
+            "TreePosition": [
+                1
+            ],
+            "Coin": []
+        },
+        {
+            "PatternID": "18",
+            "LaneNumber": 34,
+            "type": 1,
+            "TreePosition": [
+                1,
+                2,
+                4,
+                6,
+                7
+            ],
+            "Coin": []
+        },
+        {
+            "PatternID": "2",
+            "LaneNumber": 35,
+            "type": 4,
+            "LotusPosition": [
+                0,
+                1,
+                4,
+                5
+            ],
+            "Coin": [
+                0,
+                4,
+                5
+            ]
+        },
+        {
+            "PatternID": "2",
+            "LaneNumber": 36,
+            "type": 4,
+            "LotusPosition": [
+                1,
+                2,
+                5,
+                6
+            ],
+            "Coin": [
+                1,
+                6
+            ]
+        },
+        {
+            "PatternID": "2",
+            "LaneNumber": 37,
+            "type": 4,
+            "LotusPosition": [
+                2,
+                3,
+                6,
+                7
+            ],
+            "Coin": [
+                2,
+                3,
+                7
+            ]
+        },
+        {
+            "PatternID": "2",
+            "LaneNumber": 38,
+            "type": 4,
+            "LotusPosition": [
+                3,
+                4,
+                7,
+                8
+            ],
+            "Coin": [
+                3
+            ]
+        },
+        {
+            "PatternID": "2",
+            "LaneNumber": 39,
+            "type": 4,
+            "LotusPosition": [
+                4,
+                5,
+                8
+            ],
+            "Coin": [
+                4
+            ]
+        },
+        {
+            "PatternID": "7",
+            "LaneNumber": 40,
+            "type": 2,
+            "MoveDirection": -1,
+            "MoveSpeed": 1.132426857,
+            "AnimalPosition": [
+                0,
+                3,
+                4,
+                5,
+                8
+            ],
+            "Coin": []
+        },
+        {
+            "PatternID": "7",
+            "LaneNumber": 41,
+            "type": 3,
+            "MoveDirection": -1,
+            "MoveSpeed": 1.1000038515,
+            "TrainDelay": 3,
+            "TrainSize": 3,
+            "Coin": []
+        },
+        {
+            "PatternID": "7",
+            "LaneNumber": 42,
+            "type": 2,
+            "MoveDirection": -1,
+            "MoveSpeed": 1.677848304,
+            "AnimalPosition": [
+                1,
+                2,
+                6,
+                7
+            ],
+            "Coin": []
+        },
+        {
+            "PatternID": "7",
+            "LaneNumber": 43,
+            "type": 3,
+            "MoveDirection": 1,
+            "MoveSpeed": 1.0254140145,
+            "TrainDelay": 3,
+            "TrainSize": 3,
+            "Coin": []
+        },
+        {
+            "PatternID": "2",
+            "LaneNumber": 44,
+            "type": 4,
+            "LotusPosition": [
+                0,
+                1,
+                4,
+                5
+            ],
+            "Coin": []
+        },
+        {
+            "PatternID": "2",
+            "LaneNumber": 45,
+            "type": 4,
+            "LotusPosition": [
+                1,
+                2,
+                5,
+                6
+            ],
+            "Coin": []
+        },
+        {
+            "PatternID": "2",
+            "LaneNumber": 46,
+            "type": 4,
+            "LotusPosition": [
+                2,
+                3,
+                6,
+                7
+            ],
+            "Coin": []
+        },
+        {
+            "PatternID": "2",
+            "LaneNumber": 47,
+            "type": 4,
+            "LotusPosition": [
+                3,
+                4,
+                7,
+                8
+            ],
+            "Coin": []
+        },
+        {
+            "PatternID": "2",
+            "LaneNumber": 48,
+            "type": 4,
+            "LotusPosition": [
+                4,
+                5,
+                8
+            ],
+            "Coin": []
+        },
+        {
+            "PatternID": "17",
+            "LaneNumber": 49,
+            "type": 1,
+            "TreePosition": [
+                0,
+                1,
+                3,
+                6
+            ],
+            "Coin": []
+        },
+        {
+            "PatternID": "17",
+            "LaneNumber": 50,
+            "type": 1,
+            "TreePosition": [
+                5,
+                8
+            ],
+            "Coin": []
+        },
+        {
+            "PatternID": "17",
+            "LaneNumber": 51,
+            "type": 1,
+            "TreePosition": [
+                0,
+                6,
+                8
+            ],
+            "Coin": []
+        },
+        {
+            "PatternID": "17",
+            "LaneNumber": 52,
+            "type": 1,
+            "TreePosition": [
+                0,
+                1,
+                3,
+                8
+            ],
+            "Coin": []
+        },
+        {
+            "PatternID": "17",
+            "LaneNumber": 53,
+            "type": 1,
+            "TreePosition": [
+                1,
+                2,
+                4
+            ],
+            "Coin": []
+        },
+        {
+            "PatternID": "5",
+            "LaneNumber": 54,
+            "type": 4,
+            "LotusPosition": [
+                1,
+                2,
+                3,
+                5,
+                6,
+                7
+            ],
+            "Coin": []
+        },
+        {
+            "PatternID": "5",
+            "LaneNumber": 55,
+            "type": 5,
+            "LogPosition": [
+                0,
+                1,
+                2
+            ],
+            "MoveDirection": 1,
+            "MoveSpeed": 0.9679726245,
+            "Coin": []
+        },
+        {
+            "PatternID": "5",
+            "LaneNumber": 56,
+            "type": 5,
+            "LogPosition": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "MoveDirection": 1,
+            "MoveSpeed": 1.8935005455,
+            "Coin": []
+        },
+        {
+            "PatternID": "5",
+            "LaneNumber": 57,
+            "type": 5,
+            "LogPosition": [
+                4,
+                5,
+                6,
+                7
+            ],
+            "MoveDirection": -1,
+            "MoveSpeed": 1.6272122505,
+            "Coin": []
+        },
+        {
+            "PatternID": "5",
+            "LaneNumber": 58,
+            "type": 4,
+            "LotusPosition": [
+                0,
+                2,
+                3,
+                4,
+                7,
+                8
+            ],
+            "Coin": []
+        },
+        {
+            "PatternID": "9",
+            "LaneNumber": 59,
+            "type": 3,
+            "MoveDirection": -1,
+            "MoveSpeed": 2.246517888,
+            "TrainDelay": 3,
+            "TrainSize": 3,
+            "Coin": []
+        },
+        {
+            "PatternID": "9",
+            "LaneNumber": 60,
+            "type": 2,
+            "MoveDirection": 1,
+            "MoveSpeed": 0.7855929105,
+            "AnimalPosition": [
+                0,
+                2,
+                3,
+                5,
+                7
+            ],
+            "Coin": []
+        },
+        {
+            "PatternID": "9",
+            "LaneNumber": 61,
+            "type": 3,
+            "MoveDirection": 1,
+            "MoveSpeed": 1.514413647,
+            "TrainDelay": 3,
+            "TrainSize": 3,
+            "Coin": []
+        },
+        {
+            "PatternID": "17",
+            "LaneNumber": 62,
+            "type": 1,
+            "TreePosition": [
+                0,
+                1,
+                3,
+                6
+            ],
+            "Coin": []
+        },
+        {
+            "PatternID": "17",
+            "LaneNumber": 63,
+            "type": 1,
+            "TreePosition": [
+                5,
+                8
+            ],
+            "Coin": []
+        },
+        {
+            "PatternID": "17",
+            "LaneNumber": 64,
+            "type": 1,
+            "TreePosition": [
+                0,
+                6,
+                8
+            ],
+            "Coin": []
+        },
+        {
+            "PatternID": "17",
+            "LaneNumber": 65,
+            "type": 1,
+            "TreePosition": [
+                0,
+                1,
+                3,
+                8
+            ],
+            "Coin": []
+        },
+        {
+            "PatternID": "17",
+            "LaneNumber": 66,
+            "type": 1,
+            "TreePosition": [
+                1,
+                2,
+                4
+            ],
+            "Coin": []
+        },
+        {
+            "PatternID": "4",
+            "LaneNumber": 67,
+            "type": 5,
+            "LogPosition": [
+                1,
+                2,
+                5,
+                6
+            ],
+            "MoveDirection": 0,
+            "MoveSpeed": 0.850108485,
+            "Coin": []
+        },
+        {
+            "PatternID": "4",
+            "LaneNumber": 68,
+            "type": 5,
+            "LogPosition": [
+                0,
+                1,
+                4,
+                5
+            ],
+            "MoveDirection": 1,
+            "MoveSpeed": 1.8415781355,
+            "Coin": []
+        },
+        {
+            "PatternID": "5",
+            "LaneNumber": 69,
+            "type": 2,
+            "MoveDirection": 1,
+            "MoveSpeed": 2.0561156655,
+            "AnimalPosition": [
+                0,
+                8
+            ],
+            "Coin": []
+        },
+        {
+            "PatternID": "5",
+            "LaneNumber": 70,
+            "type": 2,
+            "MoveDirection": -1,
+            "MoveSpeed": 1.927069422,
+            "AnimalPosition": [
+                1,
+                8
+            ],
+            "Coin": []
+        },
+        {
+            "PatternID": "5",
+            "LaneNumber": 71,
+            "type": 2,
+            "MoveDirection": 1,
+            "MoveSpeed": 1.4596405965,
+            "AnimalPosition": [
+                4
+            ],
+            "Coin": []
+        },
+        {
+            "PatternID": "1",
+            "LaneNumber": 72,
+            "type": 4,
+            "LotusPosition": [
+                1,
+                4,
+                5,
+                7
+            ],
+            "Coin": []
+        },
+        {
+            "PatternID": "1",
+            "LaneNumber": 73,
+            "type": 4,
+            "LotusPosition": [
+                1,
+                2,
+                4,
+                7
+            ],
+            "Coin": []
+        },
+        {
+            "PatternID": "1",
+            "LaneNumber": 74,
+            "type": 4,
+            "LotusPosition": [
+                2,
+                4,
+                5,
+                7
+            ],
+            "Coin": []
+        },
+        {
+            "PatternID": "1",
+            "LaneNumber": 75,
+            "type": 4,
+            "LotusPosition": [
+                2,
+                5,
+                7,
+                8
+            ],
+            "Coin": [
+                8
+            ]
+        },
+        {
+            "PatternID": "1",
+            "LaneNumber": 76,
+            "type": 4,
+            "LotusPosition": [
+                1,
+                2,
+                5,
+                8
+            ],
+            "Coin": []
+        },
+        {
+            "PatternID": "7",
+            "LaneNumber": 77,
+            "type": 2,
+            "MoveDirection": -1,
+            "MoveSpeed": 1.151006262,
+            "AnimalPosition": [
+                0,
+                3,
+                4,
+                5,
+                8
+            ],
+            "Coin": []
+        },
+        {
+            "PatternID": "7",
+            "LaneNumber": 78,
+            "type": 3,
+            "MoveDirection": 1,
+            "MoveSpeed": 1.3453614045,
+            "TrainDelay": 3,
+            "TrainSize": 3,
+            "Coin": []
+        },
+        {
+            "PatternID": "7",
+            "LaneNumber": 79,
+            "type": 2,
+            "MoveDirection": 1,
+            "MoveSpeed": 0.846553173,
+            "AnimalPosition": [
+                1,
+                2,
+                6,
+                7
+            ],
+            "Coin": []
+        },
+        {
+            "PatternID": "7",
+            "LaneNumber": 80,
+            "type": 3,
+            "MoveDirection": 1,
+            "MoveSpeed": 1.6268694795,
+            "TrainDelay": 3,
+            "TrainSize": 3,
+            "Coin": []
+        },
+        {
+            "PatternID": "5",
+            "LaneNumber": 81,
+            "type": 1,
+            "TreePosition": [
+                2,
+                5,
+                8
+            ],
+            "Coin": []
+        },
+        {
+            "PatternID": "5",
+            "LaneNumber": 82,
+            "type": 1,
+            "TreePosition": [
+                2,
+                4,
+                8
+            ],
+            "Coin": []
+        },
+        {
+            "PatternID": "5",
+            "LaneNumber": 83,
+            "type": 1,
+            "TreePosition": [
+                0,
+                2,
+                5,
+                7,
+                8
+            ],
+            "Coin": []
+        },
+        {
+            "PatternID": "5",
+            "LaneNumber": 84,
+            "type": 1,
+            "TreePosition": [
+                2,
+                4,
+                8
+            ],
+            "Coin": [
+                6
+            ]
+        },
+        {
+            "PatternID": "5",
+            "LaneNumber": 85,
+            "type": 1,
+            "TreePosition": [
+                2,
+                5,
+                8
+            ],
+            "Coin": []
+        },
+        {
+            "PatternID": "1",
+            "LaneNumber": 86,
+            "type": 4,
+            "LotusPosition": [
+                1,
+                4,
+                5,
+                7
+            ],
+            "Coin": [
+                1
+            ]
+        },
+        {
+            "PatternID": "1",
+            "LaneNumber": 87,
+            "type": 4,
+            "LotusPosition": [
+                1,
+                2,
+                4,
+                7
+            ],
+            "Coin": []
+        },
+        {
+            "PatternID": "1",
+            "LaneNumber": 88,
+            "type": 4,
+            "LotusPosition": [
+                2,
+                4,
+                5,
+                7
+            ],
+            "Coin": []
+        },
+        {
+            "PatternID": "1",
+            "LaneNumber": 89,
+            "type": 4,
+            "LotusPosition": [
+                2,
+                5,
+                7,
+                8
+            ],
+            "Coin": []
+        },
+        {
+            "PatternID": "1",
+            "LaneNumber": 90,
+            "type": 4,
+            "LotusPosition": [
+                1,
+                2,
+                5,
+                8
+            ],
+            "Coin": []
+        },
+        {
+            "PatternID": "5",
+            "LaneNumber": 91,
+            "type": 2,
+            "MoveDirection": -1,
+            "MoveSpeed": 2.0120546715,
+            "AnimalPosition": [
+                0,
+                8
+            ],
+            "Coin": []
+        },
+        {
+            "PatternID": "5",
+            "LaneNumber": 92,
+            "type": 2,
+            "MoveDirection": 1,
+            "MoveSpeed": 2.2060281,
+            "AnimalPosition": [
+                1,
+                8
+            ],
+            "Coin": []
+        },
+        {
+            "PatternID": "5",
+            "LaneNumber": 93,
+            "type": 2,
+            "MoveDirection": 1,
+            "MoveSpeed": 2.1244218585,
+            "AnimalPosition": [
+                4
+            ],
+            "Coin": []
+        },
+        {
+            "PatternID": "10",
+            "LaneNumber": 94,
+            "type": 1,
+            "TreePosition": [
+                1,
+                4,
+                8
+            ],
+            "Coin": []
+        },
+        {
+            "PatternID": "10",
+            "LaneNumber": 95,
+            "type": 1,
+            "TreePosition": [
+                1,
+                3,
+                5,
+                7
+            ],
+            "Coin": [
+                2
+            ]
+        },
+        {
+            "PatternID": "10",
+            "LaneNumber": 96,
+            "type": 1,
+            "TreePosition": [
+                0,
+                7
+            ],
+            "Coin": []
+        },
+        {
+            "PatternID": "10",
+            "LaneNumber": 97,
+            "type": 1,
+            "TreePosition": [
+                1,
+                5
+            ],
+            "Coin": []
+        },
+        {
+            "PatternID": "10",
+            "LaneNumber": 98,
+            "type": 1,
+            "TreePosition": [
+                2
+            ],
+            "Coin": []
+        },
+        {
+            "PatternID": "10",
+            "LaneNumber": 99,
+            "type": 1,
+            "TreePosition": [
+                0,
+                4,
+                5,
+                6,
+                8
+            ],
+            "Coin": []
+        },
+        {
+            "PatternID": "4",
+            "LaneNumber": 100,
+            "type": 2,
+            "MoveDirection": -1,
+            "MoveSpeed": 0.8432369775,
+            "AnimalPosition": [
+                0,
+                8
+            ],
+            "Coin": []
+        },
+        {
+            "PatternID": "4",
+            "LaneNumber": 101,
+            "type": 2,
+            "MoveDirection": 1,
+            "MoveSpeed": 1.53040923,
+            "AnimalPosition": [
+                3,
+                8
+            ],
+            "Coin": [
+                5
+            ]
+        },
+        {
+            "PatternID": "4",
+            "LaneNumber": 102,
+            "type": 2,
+            "MoveDirection": 1,
+            "MoveSpeed": 0.938108976,
+            "AnimalPosition": [
+                0,
+                5
+            ],
+            "Coin": []
+        }
+    ]
+}

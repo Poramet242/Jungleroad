@@ -1,0 +1,43 @@
+{
+    "1": {
+        "pattern_id": "1",
+        "lane_count": 3,
+        "difficulty": 0,
+        "entry": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+        ],
+        "exit": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+        ],
+        "lane": [
+            {
+                "type": 1,
+                "TreePosition": []
+            },
+            {
+                "type": 1,
+                "TreePosition": []
+            },
+            {
+                "type": 1,
+                "TreePosition": []
+            }
+        ]
+    }
+}
